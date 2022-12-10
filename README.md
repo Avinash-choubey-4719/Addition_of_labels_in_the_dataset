@@ -10,3 +10,6 @@ you need to add labels to it to prepare it for sentiment analysis.
 
 # importing and exporting the dataset in which we have to add the labels
 ![image](https://user-images.githubusercontent.com/104202659/206859740-0892c058-52ee-4771-83ff-83c234e3512c.png)
+
+# saving the newly created dataset
+![image](https://user-images.githubusercontent.com/104202659/206859860-e6190575-09df-42d3-9c2f-174676f31e7b.png)
